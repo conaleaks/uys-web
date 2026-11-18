@@ -27,11 +27,11 @@ Thank you for your review of our merchant profile. Below please find the request
 
 3. **Service Offerings & Transparent Pricing (ZAR):**
    - Visible directly on the homepage at https://uys-web.vercel.app/#pricing
-   - Starter Business Website: R 2,400 (50% Deposit: R 1,200)
-   - Custom Web Platform / App: R 5,800 (50% Deposit: R 2,900)
-   - Full E-Commerce Solution with Paystack: R 8,500 (50% Deposit: R 4,250)
-   - Monthly Development Retainer: R 1,800 / month
-   - Hourly Programming & Bug Fixes: R 450 / hour
+   - Starter Landing Page: R 350 (50% Deposit: R 175)
+   - Complete Business Website: R 850 (50% Deposit: R 425)
+   - Web App / E-Commerce Solution: R 1,600 (50% Deposit: R 800)
+   - Monthly Maintenance Retainer: R 350 / month
+   - Hourly Programming & Bug Fixes: R 150 / hour
 
 4. **Transparent Refund & Cancellation Policy:**
    - Dedicated Page: https://uys-web.vercel.app/refund-policy.html
